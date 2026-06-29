@@ -1,5 +1,3 @@
-package TwoPointers_Ruhani;
-
 class RemoveDuplicates {
     public ListNode deleteDuplicates(ListNode head) {
         if (head == null || head.next == null) {

@@ -1,5 +1,3 @@
-package TwoPointers_Ruhani;
-
 class ListNode {
     int val;
     ListNode next;

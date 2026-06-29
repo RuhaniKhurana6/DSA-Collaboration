@@ -1,5 +1,3 @@
-package TwoPointers_Ruhani;
-
 class twoSum_II {
     public int[] twoSum(int[] numbers, int target) {
         int left = 0;
