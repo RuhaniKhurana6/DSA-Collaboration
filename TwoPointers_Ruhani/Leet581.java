@@ -1,4 +1,4 @@
-class Solution {
+class Leet581 {
     public int findUnsortedSubarray(int[] nums) {
         int[] sorted = nums.clone();
         Arrays.sort(sorted);
